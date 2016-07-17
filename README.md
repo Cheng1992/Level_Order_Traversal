@@ -1,13 +1,4 @@
 # Level_Order_Traversal
 
-#include<iostream>
-#include<vector>
-
-using namespace std;
-
-int main()
-{
-
-  cin.get();
-  return 0;
-}
+Do a Breadth First Search on a tree.
+Output in two ways: one-dimensional vector and two-dimensional vector.
